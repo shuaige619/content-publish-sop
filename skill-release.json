@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "standard_version": "1.0.0",
+  "skill": "content-publish-sop",
+  "source_version": "267fc057893a4b334cbc7cb57c9e9190c03293d37df7218625e7ea7d4dd9a99c",
+  "origin": "original",
+  "stage": "candidate",
+  "upstream": "",
+  "files": {
+    "README.md": "c78e39ec90ff5ba4783970614e5862a29c1fe58c6eaf5c0493050ee749a39413",
+    "SKILL.md": "4a6f30d528b85bc2426a82ca3dfd97873dce31ef3caafa9743f8b084cfc5c152"
+  }
+}
